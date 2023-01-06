@@ -7,3 +7,4 @@ declare namespace App {
 	// interface PageData {}
 	// interface Platform {}
 }
+/// <reference types="vite-plugin-pwa/client" />
